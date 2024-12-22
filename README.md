@@ -1,1 +1,1 @@
-﻿### Life_Expecntancy_Averaged
+﻿### Life_Expectancy_Averaged
